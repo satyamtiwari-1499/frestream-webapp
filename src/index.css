@@ -1,0 +1,15 @@
+/* @font-face {
+    font-family: gilroy;
+    src: url(Gilroy-Regular.ttf);
+}
+*{
+    font-family: gilroy;
+} */
+
+.heroimg{
+    mask-image: linear-gradient(to right,rgb(221, 214, 214) 1000%);
+}
+.Cardbox::-webkit-scrollbar{
+    display: none
+}
+@import "tailwindcss";
